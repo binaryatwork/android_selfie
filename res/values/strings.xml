@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DailySelfie</string>
+    <string name="camera">Camera</string>
+    <string name="delete_all">Delete All</string>
+    <string name="img_selfie_string">Selfie Time</string>
+    <string name="selfie_time_string">"Time to take a selfie!!!!!"</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+    <string name="delete_selected">Delete Selected</string>
+    
+</resources>
